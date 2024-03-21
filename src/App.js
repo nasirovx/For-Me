@@ -9,7 +9,7 @@ const App = () => {
             <span>BEKASTAN</span>
             <div class='btns'><div>Fullstack Developer</div><div>Digital Craftsman</div></div>
             <button class='btn'><a href="#">Newsletter</a></button>
-            <button class='btn'><a href="#">Website</a></button>
+            <button class='btn'><a href="https://my-sait-b7cc.vercel.app/">Website</a></button>
             <button class='btn'><a target="_blank" href="https://youtube.com/@tutsu.?si=VigTpzCsIfaskJNi">YouTube</a></button>
             <button class='btn'><a target="_blank" href="https://github.com/nasirovx">GitHub</a></button>
             <button class='btn'><a target="_blank" href="https://t.me/beka_stan">Telegram</a></button>
